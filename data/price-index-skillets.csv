@@ -1,0 +1,63 @@
+month,maker,id,name,prev_sales,prev_median_usd,sales,median_usd,change
+2026-09,griswold,griswold-8-large_block-unknown,Griswold No. 8 Large Block Logo Skillet,41,95.00,36,91.00,-0.0421
+2026-09,griswold,griswold-3-large_block-unknown,Griswold No. 3 Large Block Logo Skillet,23,49.99,23,51.78,0.0358
+2026-09,griswold,griswold-8-other-unknown,Griswold No. 8 Skillet (logo not stated in listing),28,64.49,21,65.00,0.0079
+2026-09,griswold,griswold-8-small_block-unknown,Griswold No. 8 Small Block Logo Skillet,17,57.00,21,65.00,0.1404
+2026-09,griswold,griswold-6-large_block-unknown,Griswold No. 6 Large Block Logo Skillet,18,84.99,18,70.48,-0.1707
+2026-09,griswold,griswold-3-other-unknown,Griswold No. 3 Skillet (logo not stated in listing),27,32.99,16,34.00,0.0306
+2026-09,griswold,griswold-5-large_block-unknown,Griswold No. 5 Large Block Logo Skillet,13,90.00,16,102.00,0.1333
+2026-09,griswold,griswold-5-other-unknown,Griswold No. 5 Skillet (logo not stated in listing),8,47.00,13,42.99,-0.0852
+2026-09,griswold,griswold-6-small_block-unknown,Griswold No. 6 Small Block Logo Skillet,21,56.00,13,45.00,-0.1964
+2026-09,griswold,griswold-9-other-unknown,Griswold No. 9 Skillet (logo not stated in listing),8,107.50,13,85.00,-0.2093
+2026-09,griswold,griswold-6-other-unknown,Griswold No. 6 Skillet (logo not stated in listing),6,48.50,11,64.99,0.3400
+2026-09,griswold,griswold-3-small_block-unknown,Griswold No. 3 Small Block Logo Skillet,13,39.95,10,31.50,-0.2115
+2026-09,griswold,griswold-5-small_block-unknown,Griswold No. 5 Small Block Logo Skillet,12,46.75,10,49.99,0.0694
+2026-09,griswold,griswold-7-large_block-unknown,Griswold No. 7 Large Block Logo Skillet,23,79.90,10,99.98,0.2513
+2026-09,griswold,griswold-9-small_block-unknown,Griswold No. 9 Small Block Logo Skillet,11,79.99,10,69.99,-0.1250
+2026-09,griswold,griswold-7-other-unknown,Griswold No. 7 Skillet (logo not stated in listing),5,58.50,9,65.00,0.1111
+2026-09,griswold,griswold-9-large_block-unknown,Griswold No. 9 Large Block Logo Skillet,11,179.99,9,179.99,0.0000
+2026-09,griswold,griswold-10-large_block-unknown,Griswold No. 10 Large Block Logo Skillet,14,216.75,7,222.50,0.0266
+2026-09,griswold,griswold-8-slant-unknown,Griswold No. 8 Slant Logo Skillet,8,217.50,6,126.48,-0.4185
+2026-09,griswold,griswold-10-other-unknown,Griswold No. 10 Skillet (logo not stated in listing),9,150.00,5,138.88,-0.0741
+2026-09,griswold,griswold-10-small_block-unknown,Griswold No. 10 Small Block Logo Skillet,17,150.00,5,150.00,0.0000
+2026-09,griswold,griswold-7-small_block-unknown,Griswold No. 7 Small Block Logo Skillet,11,55.00,5,58.00,0.0545
+2026-09,wagner,wagner-3-sidney_o-unknown,Wagner No. 3 Sidney -O- Skillet,27,21.50,32,17.28,-0.1963
+2026-09,wagner,wagner-8-sidney_o-unknown,Wagner No. 8 Sidney -O- Skillet,26,33.25,30,32.98,-0.0083
+2026-09,wagner,wagner-10-sidney_o-unknown,Wagner No. 10 Sidney -O- Skillet,6,72.50,22,65.50,-0.0966
+2026-09,wagner,wagner-6-sidney_o-unknown,Wagner No. 6 Sidney -O- Skillet,16,25.34,19,27.00,0.0653
+2026-09,wagner,wagner-8-other-unknown,Wagner No. 8 Skillet (logo not stated in listing),12,33.58,13,29.95,-0.1081
+2026-09,wagner,wagner-5-sidney_o-unknown,Wagner No. 5 Sidney -O- Skillet,13,29.99,11,29.00,-0.0330
+2026-09,wagner,wagner-6-other-unknown,Wagner No. 6 Skillet (logo not stated in listing),6,30.52,10,32.50,0.0650
+2026-09,wagner,wagner-3-other-unknown,Wagner No. 3 Skillet (logo not stated in listing),11,21.50,9,22.00,0.0233
+2026-09,wagner,wagner-10-other-unknown,Wagner No. 10 Skillet (logo not stated in listing),10,49.50,6,47.50,-0.0403
+2026-08,griswold,griswold-8-large_block-unknown,Griswold No. 8 Large Block Logo Skillet,34,87.95,41,95.00,0.0802
+2026-08,griswold,griswold-8-other-unknown,Griswold No. 8 Skillet (logo not stated in listing),17,79.99,28,64.49,-0.1938
+2026-08,griswold,griswold-3-other-unknown,Griswold No. 3 Skillet (logo not stated in listing),12,39.99,27,32.99,-0.1750
+2026-08,griswold,griswold-3-large_block-unknown,Griswold No. 3 Large Block Logo Skillet,22,50.00,23,49.99,-0.0001
+2026-08,griswold,griswold-7-large_block-unknown,Griswold No. 7 Large Block Logo Skillet,9,65.00,23,79.90,0.2292
+2026-08,griswold,griswold-6-small_block-unknown,Griswold No. 6 Small Block Logo Skillet,21,45.00,21,56.00,0.2444
+2026-08,griswold,griswold-6-large_block-unknown,Griswold No. 6 Large Block Logo Skillet,17,90.50,18,84.99,-0.0609
+2026-08,griswold,griswold-10-small_block-unknown,Griswold No. 10 Small Block Logo Skillet,10,128.25,17,150.00,0.1696
+2026-08,griswold,griswold-8-small_block-unknown,Griswold No. 8 Small Block Logo Skillet,13,65.00,17,57.00,-0.1231
+2026-08,griswold,griswold-10-large_block-unknown,Griswold No. 10 Large Block Logo Skillet,8,237.47,14,216.75,-0.0873
+2026-08,griswold,griswold-3-small_block-unknown,Griswold No. 3 Small Block Logo Skillet,15,38.51,13,39.95,0.0374
+2026-08,griswold,griswold-5-large_block-unknown,Griswold No. 5 Large Block Logo Skillet,15,85.00,13,90.00,0.0588
+2026-08,griswold,griswold-5-small_block-unknown,Griswold No. 5 Small Block Logo Skillet,10,44.50,12,46.75,0.0504
+2026-08,griswold,griswold-7-small_block-unknown,Griswold No. 7 Small Block Logo Skillet,9,61.00,11,55.00,-0.0984
+2026-08,griswold,griswold-9-large_block-unknown,Griswold No. 9 Large Block Logo Skillet,5,134.99,11,179.99,0.3334
+2026-08,griswold,griswold-9-small_block-unknown,Griswold No. 9 Small Block Logo Skillet,11,75.99,11,79.99,0.0526
+2026-08,griswold,griswold-10-other-unknown,Griswold No. 10 Skillet (logo not stated in listing),6,141.25,9,150.00,0.0619
+2026-08,griswold,griswold-8-slant-heat_ring,Griswold No. 8 Slant Logo Skillet with Heat Ring,5,129.99,9,109.00,-0.1615
+2026-08,griswold,griswold-5-other-unknown,Griswold No. 5 Skillet (logo not stated in listing),8,52.47,8,47.00,-0.1043
+2026-08,griswold,griswold-8-slant-unknown,Griswold No. 8 Slant Logo Skillet,7,125.00,8,217.50,0.7400
+2026-08,griswold,griswold-9-other-unknown,Griswold No. 9 Skillet (logo not stated in listing),17,90.00,8,107.50,0.1944
+2026-08,griswold,griswold-4-other-unknown,Griswold No. 4 Skillet (logo not stated in listing),5,60.00,6,77.50,0.2917
+2026-08,griswold,griswold-6-other-unknown,Griswold No. 6 Skillet (logo not stated in listing),10,63.90,6,48.50,-0.2410
+2026-08,griswold,griswold-7-other-unknown,Griswold No. 7 Skillet (logo not stated in listing),6,43.00,5,58.50,0.3606
+2026-08,wagner,wagner-3-sidney_o-unknown,Wagner No. 3 Sidney -O- Skillet,21,19.00,27,21.50,0.1316
+2026-08,wagner,wagner-8-sidney_o-unknown,Wagner No. 8 Sidney -O- Skillet,27,49.97,26,33.25,-0.3346
+2026-08,wagner,wagner-6-sidney_o-unknown,Wagner No. 6 Sidney -O- Skillet,14,27.49,16,25.34,-0.0780
+2026-08,wagner,wagner-5-sidney_o-unknown,Wagner No. 5 Sidney -O- Skillet,11,28.99,13,29.99,0.0345
+2026-08,wagner,wagner-3-other-unknown,Wagner No. 3 Skillet (logo not stated in listing),6,17.97,11,21.50,0.1964
+2026-08,wagner,wagner-10-sidney_o-unknown,Wagner No. 10 Sidney -O- Skillet,11,80.00,6,72.50,-0.0938
+2026-08,wagner,wagner-6-other-unknown,Wagner No. 6 Skillet (logo not stated in listing),6,32.50,6,30.52,-0.0609
