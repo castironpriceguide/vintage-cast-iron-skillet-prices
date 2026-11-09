@@ -4,7 +4,7 @@ What Griswold and Wagner cast iron skillets actually sell for: the median price 
 and a monthly price index. Published by [Cast Iron Price Guide](https://castironpriceguide.com/), which shows the same figures page by page and
 updates them every day. This repository is refreshed once a month.
 
-Data date: 2026-10-10. 66 skillets with a current value; 2 months of the price index (62 skillet rows).
+Data date: 2026-11-09. 68 skillets with a current value; 3 months of the price index (95 skillet rows).
 
 ## Files
 
@@ -47,4 +47,4 @@ out. Details: [how the values are computed](https://castironpriceguide.com/metho
 
 [CC BY 4.0](LICENSE): free to share and adapt, also commercially, with attribution and a link to https://castironpriceguide.com/.
 
-Cite as: Cast Iron Price Guide, castironpriceguide.com, October 2026.
+Cite as: Cast Iron Price Guide, castironpriceguide.com, November 2026.
